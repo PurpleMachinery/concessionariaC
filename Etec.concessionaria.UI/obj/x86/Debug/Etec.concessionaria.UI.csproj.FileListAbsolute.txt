@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\Etec.concessionaria\Etec.concessionaria.UI\bin\Debug\Etec.concessionaria.UI.exe
+C:\Users\Aluno\Desktop\Etec.concessionaria\Etec.concessionaria.UI\bin\Debug\Etec.concessionaria.UI.pdb
+C:\Users\Aluno\Desktop\Etec.concessionaria\Etec.concessionaria.UI\obj\x86\Debug\Etec.concessionaria.UI.Login.resources
+C:\Users\Aluno\Desktop\Etec.concessionaria\Etec.concessionaria.UI\obj\x86\Debug\Etec.concessionaria.UI.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Etec.concessionaria\Etec.concessionaria.UI\obj\x86\Debug\Etec.concessionaria.UI.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Etec.concessionaria\Etec.concessionaria.UI\obj\x86\Debug\Etec.concessionaria.UI.exe
+C:\Users\Aluno\Desktop\Etec.concessionaria\Etec.concessionaria.UI\obj\x86\Debug\Etec.concessionaria.UI.pdb

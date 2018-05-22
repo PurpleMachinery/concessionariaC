@@ -1,0 +1,4 @@
+C:\Users\Aluno\Desktop\Etec.concessionaria\Etec.concessionaria.BO\bin\Debug\Etec.concessionaria.BO.dll
+C:\Users\Aluno\Desktop\Etec.concessionaria\Etec.concessionaria.BO\bin\Debug\Etec.concessionaria.BO.pdb
+C:\Users\Aluno\Desktop\Etec.concessionaria\Etec.concessionaria.BO\obj\Debug\Etec.concessionaria.BO.dll
+C:\Users\Aluno\Desktop\Etec.concessionaria\Etec.concessionaria.BO\obj\Debug\Etec.concessionaria.BO.pdb
